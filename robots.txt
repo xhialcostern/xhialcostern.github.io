@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xhialcostern.github.io/sitemap
+Sitemap: https://xhialcostern.github.io/app/sitemap
+Sitemap: https://xhialcostern.github.io/assets/sitemap
+Sitemap: https://xhialcostern.github.io/css/sitemap
+Sitemap: https://xhialcostern.github.io/includes/sitemap
+Sitemap: https://xhialcostern.github.io/item/sitemap
+Sitemap: https://xhialcostern.github.io/src/sitemap
